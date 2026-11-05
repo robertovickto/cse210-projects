@@ -8,6 +8,14 @@ public class Resume
 
     public List<Job> _jobs = new List<Job>();
 
+    // Constructor
+
+    public Resume()
+
+    {
+        
+    }
+
     // Method
 
     public void DisplayResume()
